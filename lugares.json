@@ -1,0 +1,449 @@
+[
+  {
+    "nombre": "El Crucero",
+    "tipo": "visitado",
+    "lat": 11.964785383373638,
+    "lng": -86.30477230270269,
+    "mensaje": "Nunca olvidar, lo que comimos y asoleamos jajaajs",
+    "fotos": [
+      "fotos/crucero1.jpeg",
+      "fotos/crucero2.jpeg",
+      "fotos/crucero3.jpeg",
+      "fotos/crucero4.jpeg",
+      "fotos/crucero5.jpeg",
+      "fotos/crucero6.jpeg",
+      "fotos/crucero7.jpeg",
+      "fotos/crucero8.jpeg",
+      "fotos/crucero9.jpeg",
+      "fotos/crucero10.jpeg",
+      "fotos/crucero11.jpeg",
+      "fotos/crucero12.jpeg",
+      "fotos/crucero13.jpeg"
+      
+    ]
+  },
+  {
+    "nombre": "Parque Japon",
+    "tipo": "visitado",
+    "lat": 12.12474583061083,
+    "lng": -86.26088537074304,
+    "mensaje": "Aqui surgio el sentimiento un menino loco buscando un amore grande 🌸",
+    "fotos": [
+      "fotos/parquejapon.jpeg",
+      "fotos/parquejapon2.jpeg",
+      "fotos/parquejapon3.jpeg",
+      "fotos/parquejapon4.jpeg",
+      "fotos/parquejapon5.jpeg"
+    ]
+  },
+  {
+  "nombre": "Lugar donde nos conocimos ❤️",
+  "tipo": "visitado",
+  "lat": 12.1382667358838,
+  "lng": -86.30122037228068,
+  "mensaje": "Aquí empezó todo...Un menino peque moviendo la cola a una menina grande ",
+  "fotos": [
+      "fotos/foundever1.jpeg",
+      "fotos/foundever2.jpeg",
+      "fotos/foundever3.jpeg",
+      "fotos/foundever4.jpeg",
+      "fotos/foundever5.jpeg",
+      "fotos/foundever6.jpeg",
+      "fotos/foundever7.jpeg",
+      "fotos/foundever8.jpeg",
+      "fotos/foundever9.jpeg",
+      "fotos/foundever10.jpeg",
+      "fotos/foundever11.jpeg"
+    ],
+  "corazon": true
+},
+{
+    "nombre": "Metrocentro",
+    "tipo": "visitado",
+    "lat": 12.127511620643658,
+    "lng": -86.26494899181483,
+    "mensaje": "Fuimos varias veces pero no te gustaba por que la gente te conocia jasja",
+    "fotos": [
+      "fotos/metrocentro1.jpeg",
+      "fotos/metrocentro2.jpeg",
+      "fotos/metrocentro3.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "Avenida y cosas",
+    "tipo": "visitado",
+    "lat": 12.157128883788884,
+    "lng": -86.27290312672265,
+    "mensaje": "De la nada nuevo año y navidad aqui ajasj",
+    "fotos": [
+      "fotos/avenida1.jpeg",
+      "fotos/avenida2.jpeg",
+      "fotos/avenida3.jpeg",
+      "fotos/avenida4.jpeg",
+      "fotos/avenida5.jpeg",
+      "fotos/avenida6.jpeg",
+      "fotos/avenida7.jpeg",
+      "fotos/avenida8.jpeg",
+      "fotos/avenida9.jpeg",
+      "fotos/avenida10.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "Fiesta de starbucks lindo",
+    "tipo": "visitado",
+    "lat": 12.12662921261569,
+    "lng": -86.26475023066068,
+    "mensaje": "De gala y elegantes, con los ojos malos pero alegres",
+    "fotos": [
+      "fotos/starbucks1.jpeg",
+      "fotos/starbucks2.jpeg",
+      "fotos/starbucks3.jpeg",
+      "fotos/starbucks4.jpeg",
+      "fotos/starbucks5.jpeg",
+      "fotos/starbucks6.jpeg",
+      "fotos/starbucks7.jpeg",
+      "fotos/starbucks8.jpeg",
+      "fotos/starbucks9.jpeg",
+      "fotos/starbucks10.jpeg"
+    ]
+    },
+  {
+    "nombre": "Toki",
+    "tipo": "visitado",
+    "lat": 12.133808754020386,
+    "lng": -86.27262328429521,
+    "mensaje": "El primer concierto del menino que alegre",
+    "fotos": [
+      "fotos/toki1.jpeg",
+      "fotos/toki2.jpeg",
+      "fotos/toki3.jpeg",
+      "fotos/toki4.jpeg"
+      ]
+  },
+  {
+    "nombre": "En leon y su ciudad",
+    "tipo": "visitado",
+    "lat": 12.435008352059741,
+    "lng": -86.87843995991341,
+    "mensaje": "Escapados y viendonos lindos",
+    "fotos": [
+      "fotos/leon1.jpeg",
+      "fotos/leon2.jpeg",
+      "fotos/leon3.jpeg",
+      "fotos/leon4.jpeg",
+      "fotos/leon5.jpeg",
+      "fotos/leon6.jpeg",
+      "fotos/leon7.jpeg",
+      "fotos/leon8.jpeg",
+      "fotos/leon9.jpeg",
+      "fotos/leon10.jpeg"
+    ]
+    },
+    {
+    "nombre": "En las flores",
+    "tipo": "visitado",
+    "lat": 11.981139792079734,
+    "lng": -86.30995489800506,
+    "mensaje": "Entre mil flores y la mas bella siempre fuiste tu",
+    "fotos": [
+      "fotos/flores1.jpeg",
+      "fotos/flores2.jpeg",
+      "fotos/flores3.jpeg",
+      "fotos/flores4.jpeg",
+      "fotos/flores5.jpeg",
+      "fotos/flores6.jpeg",
+      "fotos/flores7.jpeg",
+      "fotos/flores8.jpeg"
+    ]
+    },
+    {
+    "nombre": "El pumpe en Granada",
+    "tipo": "visitado",
+    "lat": 11.934910260896773,
+    "lng": -85.9612506162751,
+    "mensaje": "Claro mi amore celebrando mi pumpe conmigo por que nos amamos mucho",
+    "fotos": [
+      "fotos/pumpe1.jpeg",
+      "fotos/pumpe2.jpeg",
+      "fotos/pumpe3.jpeg",
+      "fotos/pumpe4.jpeg",
+      "fotos/pumpe5.jpeg",
+      "fotos/pumpe6.jpeg",
+      "fotos/pumpe7.jpeg",
+      "fotos/pumpe8.jpeg",
+      "fotos/pumpe9.jpeg",
+      "fotos/pumpe10.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "En otra fiesta ahora de naranja",
+    "tipo": "visitado",
+    "lat": 12.14371301352243,
+    "lng": -86.27374108614478,
+    "mensaje": "No nos ganamos nada pero tomamos sangrias toda la noche ajsjas",
+    "fotos": [
+      "fotos/crowne1.jpeg",
+      "fotos/crowne2.jpeg",
+      "fotos/crowne3.jpeg",
+      "fotos/crowne4.jpeg",
+      "fotos/crowne5.jpeg",
+      "fotos/crowne6.jpeg",
+      "fotos/crowne7.jpeg",
+      "fotos/crowne8.jpeg",
+      "fotos/crowne9.jpeg",
+      "fotos/crowne10.jpeg",
+      "fotos/crowne11.jpeg",
+      "fotos/crowne12.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "En la playa solitaria pero juntos",
+    "tipo": "visitado",
+    "lat": 12.364826171785735,
+    "lng": -87.02858779752327,
+    "mensaje": "Fue un bonito atardecer",
+    "fotos": [
+      "fotos/poneloya1.jpeg",
+      "fotos/poneloya2.jpeg",
+      "fotos/poneloya3.jpeg",
+      "fotos/poneloya4.jpeg",
+      "fotos/poneloya5.jpeg",
+      "fotos/poneloya6.jpeg",
+      "fotos/poneloya7.jpeg",
+      "fotos/poneloya8.jpeg",
+      "fotos/poneloya9.jpeg",
+      "fotos/poneloya10.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "En Granada siempre habia algo para hacer",
+    "tipo": "visitado",
+    "lat": 11.930103530023022,
+    "lng": -85.94727392936842,
+    "mensaje": "siempre juntos y unidos mi amore",
+    "fotos": [
+      "fotos/calzada1.jpeg",
+      "fotos/calzada2.jpeg",
+      "fotos/calzada3.jpeg",
+      "fotos/calzada4.jpeg",
+      "fotos/calzada5.jpeg",
+      "fotos/calzada6.jpeg",
+      "fotos/calzada7.jpeg",
+      "fotos/calzada8.jpeg",
+      "fotos/calzada9.jpeg",
+      "fotos/calzada10.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "Nosotros en Tiscapa",
+    "tipo": "visitado",
+    "lat": 12.141774743653746,
+    "lng": -86.2730880097858,
+    "mensaje": "Veniamos de otro lado pero terminamos aqui que bonitos",
+    "fotos": [
+      "fotos/tiscapa1.jpeg",
+      "fotos/tiscapa2.jpeg",
+      "fotos/tiscapa3.jpeg",
+      "fotos/tiscapa4.jpeg",
+      "fotos/tiscapa5.jpeg",
+      "fotos/tiscapa6.jpeg",
+      "fotos/tiscapa7.jpeg",
+      "fotos/tiscapa8.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "San Juan y sus cosas",
+    "tipo": "visitado",
+    "lat": 11.25526954654992,
+    "lng": -85.87258233546228,
+    "mensaje": "Fuimos muchas veces, que bien la pasamos",
+    "fotos": [
+      "fotos/sanjuan1.jpeg",
+      "fotos/sanjuan0.jpeg",
+      "fotos/sanjuan2.jpeg",
+      "fotos/sanjuan3.jpeg",
+      "fotos/sanjuan4.jpeg",
+      "fotos/sanjuan5.jpeg",
+      "fotos/sanjuan6.jpeg",
+      "fotos/sanjuan7.jpeg",
+      "fotos/sanjuan8.jpeg",
+      "fotos/sanjuan9.jpeg",
+      "fotos/sanjuan10.jpeg",
+      "fotos/sanjuan11.jpeg",
+      "fotos/sanjuan12.jpeg",
+      "fotos/sanjuan13.jpeg",
+      "fotos/sanjuan14.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "Ocotal verdad jeje",
+    "tipo": "visitado",
+    "lat": 13.636145829434048,
+    "lng": -86.48014072621643,
+    "mensaje": "viajando lejos mi amore",
+    "fotos": [
+      "fotos/ocotal1.jpeg",
+      "fotos/ocotal2.jpeg",
+      "fotos/ocotal3.jpeg",
+      "fotos/ocotal4.jpeg",
+      "fotos/ocotal5.jpeg",
+      "fotos/ocotal6.jpeg",
+      "fotos/ocotal7.jpeg",
+      "fotos/ocotal8.jpeg"
+    ]
+    },
+    
+    {
+    "nombre": "En la playita, con el sol en la cara",
+    "tipo": "visitado",
+    "lat": 11.468025354054246,
+    "lng": -85.56172804994704,
+    "mensaje": "Perdon por no tomarte un buen video jajas hay que ir otra vez",
+    "fotos": [
+      "fotos/mango1.jpeg",
+      "fotos/mango2.jpeg",
+      "fotos/mango3.jpeg",
+      "fotos/mango4.jpeg",
+      "fotos/mango5.jpeg",
+      "fotos/mango6.jpeg",
+      "fotos/mango7.jpeg",
+      "fotos/mango8.jpeg",
+      "fotos/mango9.jpeg",
+      "fotos/mango10.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "Ojo de agua",
+    "tipo": "visitado",
+    "lat": 11.519099228443398,
+    "lng": -85.56695613669245,
+    "mensaje": "Como de bien nadamos un monton y comimos ñom ñom",
+    "fotos": [
+      "fotos/ojo1.jpeg",
+      "fotos/ojo2.jpeg",
+      "fotos/ojo3.jpeg",
+      "fotos/ojo4.jpeg",
+      "fotos/ojo5.jpeg",
+      "fotos/ojo6.jpeg"
+    ]
+    },
+    
+    {
+    "nombre": "TreeCasa y bonito",
+    "tipo": "visitado",
+    "lat": 11.283792691393295,
+    "lng": -85.87403157603691,
+    "mensaje": "Bien caro pero bien bonito siempre y lo que comimos ñom ñom",
+    "fotos": [
+      "fotos/treecasa1.jpeg",
+      "fotos/treecasa2.jpeg",
+      "fotos/treecasa3.jpeg",
+      "fotos/treecasa4.jpeg",
+      "fotos/treecasa5.jpeg",
+      "fotos/treecasa6.jpeg",
+      "fotos/treecasa7.jpeg",
+      "fotos/treecasa8.jpeg",
+      "fotos/treecasa9.jpeg",
+      "fotos/treecasa10.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "En el Mombacho, de verdes",
+    "tipo": "visitado",
+    "lat": 11.834618991655073,
+    "lng": -85.97960670470266,
+    "mensaje": "Bien bonito y la caminada no fue nada hay que hacer el puma",
+    "fotos": [
+      "fotos/volcan1.jpeg",
+      "fotos/volcan2.jpeg",
+      "fotos/volcan3.jpeg",
+      "fotos/volcan4.jpeg",
+      "fotos/volcan5.jpeg",
+      "fotos/volcan6.jpeg",
+      "fotos/volcan7.jpeg",
+      "fotos/volcan8.jpeg",
+      "fotos/volcan9.jpeg",
+      "fotos/volcan10.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "Muelle",
+    "tipo": "visitado",
+    "lat": 11.930817877607904,
+    "lng": -85.93972472136251,
+    "mensaje": "Otro lado de Granada que no veia jasja bien bonito",
+    "fotos": [
+      "fotos/muelle1.jpeg",
+      "fotos/muelle2.jpeg",
+      "fotos/muelle3.jpeg",
+      "fotos/muelle4.jpeg",
+      "fotos/muelle5.jpeg",
+      "fotos/muelle6.jpeg",
+      "fotos/muelle7.jpeg",
+      "fotos/muelle8.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "Finca Starbucks",
+    "tipo": "visitado",
+    "lat": 10.100277552424801,
+    "lng": -84.19493497785187,
+    "mensaje": "Primera vez en CR bien bonitos en la montaña",
+    "fotos": [
+      "fotos/finca1.jpeg",
+      "fotos/finca2.jpeg",
+      "fotos/finca3.jpeg",
+      "fotos/finca4.jpeg",
+      "fotos/finca5.jpeg",
+      "fotos/finca6.jpeg",
+      "fotos/finca7.jpeg",
+      "fotos/finca8.jpeg",
+      "fotos/finca9.jpeg",
+      "fotos/finca10.jpeg",
+      "fotos/finca11.jpeg",
+      "fotos/finca12.jpeg"
+    ]
+    },
+
+    {
+    "nombre": "San jose y sus museos",
+    "tipo": "visitado",
+    "lat": 9.93304949802596,
+    "lng": -84.07241798699766,
+    "mensaje": "Ahora en San Jose caminando y en el museo wowowowow",
+    "fotos": [
+      "fotos/jose1.jpeg",
+      "fotos/jose2.jpeg",
+      "fotos/jose3.jpeg",
+      "fotos/jose4.jpeg",
+      "fotos/jose5.jpeg",
+      "fotos/jose6.jpeg",
+      "fotos/jose7.jpeg",
+      "fotos/jose8.jpeg",
+      "fotos/jose9.jpeg",
+      "fotos/jose10.jpeg",
+      "fotos/jose11.jpeg",
+      "fotos/jose12.jpeg",
+      "fotos/jose13.jpeg",
+      "fotos/jose14.jpeg",
+      "fotos/jose15.jpeg",
+      "fotos/jose16.jpeg",
+      "fotos/jose17.jpeg",
+      "fotos/jose18.jpeg",
+      "fotos/jose19.jpeg",
+      "fotos/jose20.jpeg"
+    ]
+    }
+]

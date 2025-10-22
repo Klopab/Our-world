@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mapa de Nuestro Amor</title>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- 🌸 Pantalla de inicio -->
+  <div id="intro-screen">
+    <h1>💞 Nuestro mapa de amor 💞</h1>
+    <p>Descubre los lugares que guardan nuestros recuerdos</p>
+    <button id="enter-map">Entrar al mapa</button>
+  </div>
+
+  <!-- 🌍 Contenedor del mapa -->
+   <!-- dentro de #map-container, justo después del div#map -->
+<div id="intro-message" class="hidden">
+  <div class="intro-card">
+    <p id="intro-text">Aquí puedes poner tu mensaje personal — reemplázalo con tus palabras ❤️</p>
+    <button id="close-intro">Cerrar</button>
+  </div>
+</div>
+
+  <div id="map-container" style="display:none;">
+    <div id="map"></div>
+  </div>
+
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
