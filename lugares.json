@@ -16,9 +16,9 @@
       "fotos/crucero8.jpeg",
       "fotos/crucero9.jpeg",
       "fotos/crucero10.jpeg",
-      "fotos/crucero11.jpeg",
-      "fotos/crucero12.jpeg",
-      "fotos/crucero13.jpeg"
+      "fotos/crucero11.JPEG",
+      "fotos/crucero12.JPEG",
+      "fotos/crucero13.JPEG"
       
     ]
   },
@@ -43,17 +43,17 @@
   "lng": -86.30122037228068,
   "mensaje": "Aquí empezó todo...Un menino peque moviendo la cola a una menina grande ",
   "fotos": [
-      "fotos/foundever1.jpeg",
-      "fotos/foundever2.jpeg",
-      "fotos/foundever3.jpeg",
+      "fotos/Foundever1.jpeg",
+      "fotos/Foundever2.jpeg",
+      "fotos/Foundever3.jpeg",
       "fotos/foundever4.jpeg",
-      "fotos/foundever5.jpeg",
-      "fotos/foundever6.jpeg",
-      "fotos/foundever7.jpeg",
+      "fotos/Foundever5.jpeg",
+      "fotos/Foundever6.jpeg",
+      "fotos/Foundever7.jpeg",
       "fotos/foundever8.jpeg",
       "fotos/foundever9.jpeg",
       "fotos/foundever10.jpeg",
-      "fotos/foundever11.jpeg"
+      "fotos/foundever11.JPEG"
     ],
   "corazon": true
 },
@@ -86,7 +86,7 @@
       "fotos/avenida7.jpeg",
       "fotos/avenida8.jpeg",
       "fotos/avenida9.jpeg",
-      "fotos/avenida10.jpeg"
+      "fotos/avenida10.JPEG"
     ]
     },
 
@@ -102,11 +102,11 @@
       "fotos/starbucks3.jpeg",
       "fotos/starbucks4.jpeg",
       "fotos/starbucks5.jpeg",
-      "fotos/starbucks6.jpeg",
-      "fotos/starbucks7.jpeg",
-      "fotos/starbucks8.jpeg",
-      "fotos/starbucks9.jpeg",
-      "fotos/starbucks10.jpeg"
+      "fotos/starbucks6.JPEG",
+      "fotos/starbucks7.JPEG",
+      "fotos/starbucks8.JPEG",
+      "fotos/starbucks9.JPEG",
+      "fotos/starbucks10.JPEG"
     ]
     },
   {
@@ -116,9 +116,9 @@
     "lng": -86.27262328429521,
     "mensaje": "El primer concierto del menino que alegre",
     "fotos": [
-      "fotos/toki1.jpeg",
-      "fotos/toki2.jpeg",
-      "fotos/toki3.jpeg",
+      "fotos/toki1.JPEG",
+      "fotos/toki2.JPEG",
+      "fotos/toki3.JPEG",
       "fotos/toki4.jpeg"
       ]
   },
@@ -129,12 +129,12 @@
     "lng": -86.87843995991341,
     "mensaje": "Escapados y viendonos lindos",
     "fotos": [
-      "fotos/leon1.jpeg",
-      "fotos/leon2.jpeg",
-      "fotos/leon3.jpeg",
-      "fotos/leon4.jpeg",
-      "fotos/leon5.jpeg",
-      "fotos/leon6.jpeg",
+      "fotos/leon1.JPEG",
+      "fotos/leon2.JPEG",
+      "fotos/leon3.JPEG",
+      "fotos/leon4.JPEG",
+      "fotos/leon5.JPEG",
+      "fotos/leon6.JPEG",
       "fotos/leon7.jpeg",
       "fotos/leon8.jpeg",
       "fotos/leon9.jpeg",
@@ -148,12 +148,12 @@
     "lng": -86.30995489800506,
     "mensaje": "Entre mil flores y la mas bella siempre fuiste tu",
     "fotos": [
-      "fotos/flores1.jpeg",
-      "fotos/flores2.jpeg",
-      "fotos/flores3.jpeg",
-      "fotos/flores4.jpeg",
-      "fotos/flores5.jpeg",
-      "fotos/flores6.jpeg",
+      "fotos/flores1.JPEG",
+      "fotos/flores2.JPEG",
+      "fotos/flores3.JPEG",
+      "fotos/flores4.JPEG",
+      "fotos/flores5.JPEG",
+      "fotos/flores6.JPEG",
       "fotos/flores7.jpeg",
       "fotos/flores8.jpeg"
     ]
@@ -165,12 +165,12 @@
     "lng": -85.9612506162751,
     "mensaje": "Claro mi amore celebrando mi pumpe conmigo por que nos amamos mucho",
     "fotos": [
-      "fotos/pumpe1.jpeg",
-      "fotos/pumpe2.jpeg",
-      "fotos/pumpe3.jpeg",
-      "fotos/pumpe4.jpeg",
-      "fotos/pumpe5.jpeg",
-      "fotos/pumpe6.jpeg",
+      "fotos/pumpe1.JPEG",
+      "fotos/pumpe2.JPEG",
+      "fotos/pumpe3.JPEG",
+      "fotos/pumpe4.JPEG",
+      "fotos/pumpe5.JPEG",
+      "fotos/pumpe6.JPEG",
       "fotos/pumpe7.jpeg",
       "fotos/pumpe8.jpeg",
       "fotos/pumpe9.jpeg",
@@ -185,16 +185,16 @@
     "lng": -86.27374108614478,
     "mensaje": "No nos ganamos nada pero tomamos sangrias toda la noche ajsjas",
     "fotos": [
-      "fotos/crowne1.jpeg",
-      "fotos/crowne2.jpeg",
-      "fotos/crowne3.jpeg",
-      "fotos/crowne4.jpeg",
-      "fotos/crowne5.jpeg",
-      "fotos/crowne6.jpeg",
-      "fotos/crowne7.jpeg",
-      "fotos/crowne8.jpeg",
-      "fotos/crowne9.jpeg",
-      "fotos/crowne10.jpeg",
+      "fotos/crowne1.JPEG",
+      "fotos/crowne2.JPEG",
+      "fotos/crowne3.JPEG",
+      "fotos/crowne4.JPEG",
+      "fotos/crowne5.JPEG",
+      "fotos/crowne6.JPEG",
+      "fotos/crowne7.JPEG",
+      "fotos/crowne8.JPEG",
+      "fotos/crowne9.JPEG",
+      "fotos/crowne10.JPEG",
       "fotos/crowne11.jpeg",
       "fotos/crowne12.jpeg"
     ]
@@ -207,9 +207,9 @@
     "lng": -87.02858779752327,
     "mensaje": "Fue un bonito atardecer",
     "fotos": [
-      "fotos/poneloya1.jpeg",
-      "fotos/poneloya2.jpeg",
-      "fotos/poneloya3.jpeg",
+      "fotos/poneloya1.JPEG",
+      "fotos/poneloya2.JPEG",
+      "fotos/poneloya3.JPEG",
       "fotos/poneloya4.jpeg",
       "fotos/poneloya5.jpeg",
       "fotos/poneloya6.jpeg",
@@ -227,15 +227,15 @@
     "lng": -85.94727392936842,
     "mensaje": "siempre juntos y unidos mi amore",
     "fotos": [
-      "fotos/calzada1.jpeg",
-      "fotos/calzada2.jpeg",
-      "fotos/calzada3.jpeg",
+      "fotos/calzada1.JPEG",
+      "fotos/calzada2.JPEG",
+      "fotos/calzada3.JPEG",
       "fotos/calzada4.jpeg",
       "fotos/calzada5.jpeg",
-      "fotos/calzada6.jpeg",
+      "fotos/calzada6.JPEG",
       "fotos/calzada7.jpeg",
       "fotos/calzada8.jpeg",
-      "fotos/calzada9.jpeg",
+      "fotos/calzada9.JPEG",
       "fotos/calzada10.jpeg"
     ]
     },
@@ -247,14 +247,14 @@
     "lng": -86.2730880097858,
     "mensaje": "Veniamos de otro lado pero terminamos aqui que bonitos",
     "fotos": [
-      "fotos/tiscapa1.jpeg",
-      "fotos/tiscapa2.jpeg",
-      "fotos/tiscapa3.jpeg",
-      "fotos/tiscapa4.jpeg",
+      "fotos/tiscapa1.JPEG",
+      "fotos/tiscapa2.JPEG",
+      "fotos/tiscapa3.JPEG",
+      "fotos/tiscapa4.JPEG",
       "fotos/tiscapa5.jpeg",
       "fotos/tiscapa6.jpeg",
-      "fotos/tiscapa7.jpeg",
-      "fotos/tiscapa8.jpeg"
+      "fotos/tiscapa7.JPEG",
+      "fotos/tiscapa8.JPEG"
     ]
     },
 
@@ -265,21 +265,21 @@
     "lng": -85.87258233546228,
     "mensaje": "Fuimos muchas veces, que bien la pasamos",
     "fotos": [
-      "fotos/sanjuan1.jpeg",
+      "fotos/sanjuan1.JPEG",
       "fotos/sanjuan0.jpeg",
-      "fotos/sanjuan2.jpeg",
-      "fotos/sanjuan3.jpeg",
-      "fotos/sanjuan4.jpeg",
-      "fotos/sanjuan5.jpeg",
-      "fotos/sanjuan6.jpeg",
-      "fotos/sanjuan7.jpeg",
-      "fotos/sanjuan8.jpeg",
-      "fotos/sanjuan9.jpeg",
-      "fotos/sanjuan10.jpeg",
-      "fotos/sanjuan11.jpeg",
-      "fotos/sanjuan12.jpeg",
-      "fotos/sanjuan13.jpeg",
-      "fotos/sanjuan14.jpeg"
+      "fotos/sanjuan2.JPEG",
+      "fotos/sanjuan3.JPEG",
+      "fotos/sanjuan4.JPEG",
+      "fotos/sanjuan5.JPEG",
+      "fotos/sanjuan6.JPEG",
+      "fotos/sanjuan7.JPEG",
+      "fotos/sanjuan8.JPEG",
+      "fotos/sanjuan9.JPEG",
+      "fotos/sanjuan10.JPEG",
+      "fotos/sanjuan11.JPEG",
+      "fotos/sanjuan12.JPEG",
+      "fotos/sanjuan13.JPEG",
+      "fotos/sanjuan14.JPEG"
     ]
     },
 
@@ -290,14 +290,14 @@
     "lng": -86.48014072621643,
     "mensaje": "viajando lejos mi amore",
     "fotos": [
-      "fotos/ocotal1.jpeg",
-      "fotos/ocotal2.jpeg",
-      "fotos/ocotal3.jpeg",
-      "fotos/ocotal4.jpeg",
-      "fotos/ocotal5.jpeg",
-      "fotos/ocotal6.jpeg",
-      "fotos/ocotal7.jpeg",
-      "fotos/ocotal8.jpeg"
+      "fotos/ocotal1.JPEG",
+      "fotos/ocotal2.JPEG",
+      "fotos/ocotal3.JPEG",
+      "fotos/ocotal4.JPEG",
+      "fotos/ocotal5.JPEG",
+      "fotos/ocotal6.JPEG",
+      "fotos/ocotal7.JPEG",
+      "fotos/ocotal8.JPEG"
     ]
     },
     
@@ -308,16 +308,16 @@
     "lng": -85.56172804994704,
     "mensaje": "Perdon por no tomarte un buen video jajas hay que ir otra vez",
     "fotos": [
-      "fotos/mango1.jpeg",
-      "fotos/mango2.jpeg",
-      "fotos/mango3.jpeg",
-      "fotos/mango4.jpeg",
-      "fotos/mango5.jpeg",
-      "fotos/mango6.jpeg",
-      "fotos/mango7.jpeg",
-      "fotos/mango8.jpeg",
-      "fotos/mango9.jpeg",
-      "fotos/mango10.jpeg"
+      "fotos/mango1.JPEG",
+      "fotos/mango2.JPEG",
+      "fotos/mango3.JPEG",
+      "fotos/mango4.JPEG",
+      "fotos/mango5.JPEG",
+      "fotos/mango6.JPEG",
+      "fotos/mango7.JPEG",
+      "fotos/mango8.JPEG",
+      "fotos/mango9.JPEG",
+      "fotos/mango10.JPEG"
     ]
     },
 
@@ -328,12 +328,12 @@
     "lng": -85.56695613669245,
     "mensaje": "Como de bien nadamos un monton y comimos ñom ñom",
     "fotos": [
-      "fotos/ojo1.jpeg",
-      "fotos/ojo2.jpeg",
-      "fotos/ojo3.jpeg",
-      "fotos/ojo4.jpeg",
-      "fotos/ojo5.jpeg",
-      "fotos/ojo6.jpeg"
+      "fotos/ojo1.JPEG",
+      "fotos/ojo2.JPEG",
+      "fotos/ojo3.JPEG",
+      "fotos/ojo4.JPEG",
+      "fotos/ojo5.JPEG",
+      "fotos/ojo6.JPEG"
     ]
     },
     
@@ -344,16 +344,16 @@
     "lng": -85.87403157603691,
     "mensaje": "Bien caro pero bien bonito siempre y lo que comimos ñom ñom",
     "fotos": [
-      "fotos/treecasa1.jpeg",
-      "fotos/treecasa2.jpeg",
-      "fotos/treecasa3.jpeg",
-      "fotos/treecasa4.jpeg",
-      "fotos/treecasa5.jpeg",
-      "fotos/treecasa6.jpeg",
-      "fotos/treecasa7.jpeg",
-      "fotos/treecasa8.jpeg",
-      "fotos/treecasa9.jpeg",
-      "fotos/treecasa10.jpeg"
+      "fotos/treecasa1.JPEG",
+      "fotos/treecasa2.JPEG",
+      "fotos/treecasa3.JPEG",
+      "fotos/treecasa4.JPEG",
+      "fotos/treecasa5.JPEG",
+      "fotos/treecasa6.JPEG",
+      "fotos/treecasa7.JPEG",
+      "fotos/treecasa8.JPEG",
+      "fotos/treecasa9.JPEG",
+      "fotos/treecasa10.JPEG"
     ]
     },
 
@@ -364,16 +364,16 @@
     "lng": -85.97960670470266,
     "mensaje": "Bien bonito y la caminada no fue nada hay que hacer el puma",
     "fotos": [
-      "fotos/volcan1.jpeg",
-      "fotos/volcan2.jpeg",
-      "fotos/volcan3.jpeg",
-      "fotos/volcan4.jpeg",
-      "fotos/volcan5.jpeg",
-      "fotos/volcan6.jpeg",
-      "fotos/volcan7.jpeg",
-      "fotos/volcan8.jpeg",
-      "fotos/volcan9.jpeg",
-      "fotos/volcan10.jpeg"
+      "fotos/volcan1.JPEG",
+      "fotos/volcan2.JPEG",
+      "fotos/volcan3.JPEG",
+      "fotos/volcan4.JPEG",
+      "fotos/volcan5.JPEG",
+      "fotos/volcan6.JPEG",
+      "fotos/volcan7.JPEG",
+      "fotos/volcan8.JPEG",
+      "fotos/volcan9.JPEG",
+      "fotos/volcan10.JPEG"
     ]
     },
 
@@ -384,14 +384,14 @@
     "lng": -85.93972472136251,
     "mensaje": "Otro lado de Granada que no veia jasja bien bonito",
     "fotos": [
-      "fotos/muelle1.jpeg",
-      "fotos/muelle2.jpeg",
-      "fotos/muelle3.jpeg",
-      "fotos/muelle4.jpeg",
-      "fotos/muelle5.jpeg",
-      "fotos/muelle6.jpeg",
-      "fotos/muelle7.jpeg",
-      "fotos/muelle8.jpeg"
+      "fotos/muelle1.JPEG",
+      "fotos/muelle2.JPEG",
+      "fotos/muelle3.JPEG",
+      "fotos/muelle4.JPEG",
+      "fotos/muelle5.JPEG",
+      "fotos/muelle6.JPEG",
+      "fotos/muelle7.JPEG",
+      "fotos/muelle8.JPEG"
     ]
     },
 
@@ -402,18 +402,18 @@
     "lng": -84.19493497785187,
     "mensaje": "Primera vez en CR bien bonitos en la montaña",
     "fotos": [
-      "fotos/finca1.jpeg",
-      "fotos/finca2.jpeg",
-      "fotos/finca3.jpeg",
-      "fotos/finca4.jpeg",
-      "fotos/finca5.jpeg",
-      "fotos/finca6.jpeg",
-      "fotos/finca7.jpeg",
-      "fotos/finca8.jpeg",
-      "fotos/finca9.jpeg",
-      "fotos/finca10.jpeg",
-      "fotos/finca11.jpeg",
-      "fotos/finca12.jpeg"
+      "fotos/finca1.JPEG",
+      "fotos/finca2.JPEG",
+      "fotos/finca3.JPEG",
+      "fotos/finca4.JPEG",
+      "fotos/finca5.JPEG",
+      "fotos/finca6.JPEG",
+      "fotos/finca7.JPEG",
+      "fotos/finca8.JPEG",
+      "fotos/finca9.JPEG",
+      "fotos/finca10.JPEG",
+      "fotos/finca11.JPEG",
+      "fotos/finca12.JPEG"
     ]
     },
 
@@ -424,26 +424,26 @@
     "lng": -84.07241798699766,
     "mensaje": "Ahora en San Jose caminando y en el museo wowowowow",
     "fotos": [
-      "fotos/jose1.jpeg",
-      "fotos/jose2.jpeg",
-      "fotos/jose3.jpeg",
-      "fotos/jose4.jpeg",
-      "fotos/jose5.jpeg",
-      "fotos/jose6.jpeg",
-      "fotos/jose7.jpeg",
-      "fotos/jose8.jpeg",
-      "fotos/jose9.jpeg",
-      "fotos/jose10.jpeg",
-      "fotos/jose11.jpeg",
-      "fotos/jose12.jpeg",
-      "fotos/jose13.jpeg",
-      "fotos/jose14.jpeg",
-      "fotos/jose15.jpeg",
-      "fotos/jose16.jpeg",
-      "fotos/jose17.jpeg",
-      "fotos/jose18.jpeg",
-      "fotos/jose19.jpeg",
-      "fotos/jose20.jpeg"
+      "fotos/jose1.JPEG",
+      "fotos/jose2.JPEG",
+      "fotos/jose3.JPEG",
+      "fotos/jose4.JPEG",
+      "fotos/jose5.JPEG",
+      "fotos/jose6.JPEG",
+      "fotos/jose7.JPEG",
+      "fotos/jose8.JPEG",
+      "fotos/jose9.JPEG",
+      "fotos/jose10.JPEG",
+      "fotos/jose11.JPEG",
+      "fotos/jose12.JPEG",
+      "fotos/jose13.JPEG",
+      "fotos/jose14.JPEG",
+      "fotos/jose15.JPEG",
+      "fotos/jose16.JPEG",
+      "fotos/jose17.JPEG",
+      "fotos/jose18.JPEG",
+      "fotos/jose19.JPEG",
+      "fotos/jose20.JPEG"
     ]
     }
 ]
