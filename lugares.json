@@ -445,5 +445,92 @@
       "fotos/jose19.webp",
       "fotos/jose20.webp"
     ]
+    },
+  
+      {
+    "nombre": "Parque Marino",
+    "tipo": "visitado",
+    "lat": 9.977065941195466, 
+    "lng": -84.82680960753514,
+    "mensaje": "Fuimos a un acruario, muchos peces y muy tranquilo",
+    "fotos": [
+      "fotos/acuario.webp",
+      "fotos/acuario1.webp",
+      "fotos/acuario2.webp",
+      "fotos/acuario3.webp",
+      "fotos/acuario4.webp",
+      "fotos/acuario5.webp"
+    ]
+    },
+    
+    {
+    "nombre": "Jaco en la playa",
+    "tipo": "visitado",
+    "lat": 9.618513288674404, 
+    "lng": -84.6329879295556,
+    "mensaje": "Muy bonito y alegre, pequeño pero justo y que  bonita la playa",
+    "fotos": [
+      "fotos/jaco.webp",
+      "fotos/jaco1.webp",
+      "fotos/jaco2.webp",
+      "fotos/jaco3.webp",
+      "fotos/jaco4.webp",
+      "fotos/jaco5.webp",
+      "fotos/jaco6.webp"
+    ]
+    },
+    
+    {
+    "nombre": "Parque de diversiones",
+    "tipo": "visitado",
+    "lat": 9.961139059871668, 
+    "lng": -84.12799035457782,
+    "mensaje": "Nos subimos a pocos pero nos reimos y comimos ñom ñom",
+    "fotos": [
+      "fotos/parque.webp",
+      "fotos/parque1.webp",
+      "fotos/parque2.webp",
+      "fotos/parque3.webp",
+      "fotos/parque4.webp",
+      "fotos/parque5.webp",
+      "fotos/parque6.webp"
+    ]
+    },
+
+    {
+    "nombre": "Puntarenas y su faro",
+    "tipo": "visitado",
+    "lat": 9.97685025586204,
+    "lng": -84.8511262613256,
+    "mensaje": "Nos subimos a pocos pero nos reimos y comimos ñom ñom",
+    "fotos": [
+      "fotos/punta.webp",
+      "fotos/punta1.webp",
+      "fotos/punta2.webp",
+      "fotos/punta3.webp",
+      "fotos/punta4.webp",
+      "fotos/punt5.webp",
+      "fotos/punta6.webp",
+      "fotos/punta8.webp"
+    ]
+    }, 
+    
+    {
+    "nombre": "En la sabana",
+    "tipo": "visitado",
+    "lat": 9.935543321482047,
+    "lng": -84.10487183207267,
+    "mensaje": "Nos subimos a pocos pero nos reimos y comimos ñom ñom",
+    "fotos": [
+      "fotos/sabana.webp",
+      "fotos/sabana1.webp",
+      "fotos/sabana2.webp",
+      "fotos/sabana3.webp",
+      "fotos/sabana4.webp",
+      "fotos/sabana5.webp",
+      "fotos/sabana6.webp",
+      "fotos/sabana7.webp",
+      "fotos/sabana8.webp"
+    ]
     }
 ]
